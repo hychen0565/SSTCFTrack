@@ -27,7 +27,7 @@ Extensive experiments on MUST, HOT, UAV123, and GOT-10k datasets demonstrate the
 | UNTrack* | 76.1 | 69.5 | 62.1 | 58.3 |
 | **SSTCF (Ours)** | **77.3** | **70.4** | **65.8** | **59.7** |
 
-## 🛠️ Environment & Installation
+## Environment & Installation
 
 ### Prerequisites
 - Python >= 3.8
