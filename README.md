@@ -14,19 +14,6 @@ SSTCF (Spectral-Spatial-Temporal Collaborative Modeling Framework) is a unified 
 2.  **MSSF Module**: Multi-Scale Spectral Fusion module enhances feature representation for small targets via dynamic band attention.
 3.  **STM Module**: Spectral Temporal Memory module suppresses long-term tracking drift through dual-metric feature retrieval.
 
-## Performance
-
-Extensive experiments on MUST, HOT, UAV123, and GOT-10k datasets demonstrate the superiority of SSTCF.
-
-| Method | MUST (AUC) | HOT (AUC) | UAV123 (AUC) | GOT-10k (AUC) |
-| :--- | :---: | :---: | :---: | :---: |
-| SiamRPN++ | 68.2 | 38.9 | 38.9 | 38.9 |
-| OSTrack* | 74.5 | 55.1 | 53.3 | 55.1 |
-| BAE-Net | 70.1 | 64.3 | 56.8 | 52.6 |
-| HANet | 75.3 | 69.1 | 60.2 | 57.9 |
-| UNTrack* | 76.1 | 69.5 | 62.1 | 58.3 |
-| **SSTCF (Ours)** | **77.3** | **70.4** | **65.8** | **59.7** |
-
 ## Environment & Installation
 
 ### Prerequisites
